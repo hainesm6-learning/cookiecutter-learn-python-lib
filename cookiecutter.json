@@ -5,7 +5,7 @@
     "generic_lib_name": "a_new_and_exciting_python_library",
     "title_lib_name": "A_new_and_exciting_python_library",
     "pip_name": "a_new_and_exciting_python_library",
-    "library_docs_url": "a_new_and_exciting_python_library.readthedocs.io",
+    "library_docs_url": "{{ cookiecutter.generic_lib_name }}.readthedocs.io",
     "readme_description": "A repo dedicated to learning {{ cookiecutter.generic_lib_name }}.",
     "url": "https://github.com/hainesm6-learning/{{ cookiecutter.generic_lib_name }}_learning"
 }
