@@ -4,6 +4,6 @@
 
     "library_name": "a_new_and_exciting_python_library",
     "library_docs_url": "a_new_and_exciting_python_library.readthedocs.io",
-    "description": "A repo dedicated to learning {{ cookiecutter.library_name }}",
-    "url": "https://github.com/hainesm6-learning/{{ cookiecutter.library_name }}"
+    "readme_description": "A repo dedicated to learning {{ cookiecutter.library_name }}.",
+    "url": "https://github.com/hainesm6-learning/{{ cookiecutter.library_name }}_learning"
 }
